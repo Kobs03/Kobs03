@@ -23,7 +23,7 @@
 
 <h2 align="left" >About</h2>
 <p>
-  Hi, I'm Jake a full-stack web developer based in the philippines and a bachelor's degree holder of computer science.
+  Hi, I'm Jake/DevKobs a full-stack web developer based in the philippines and a bachelor's degree holder in computer science.
   Being a programmer is my life long passion and what I enjoy doing. I'm currently increasing my proficiency in the MEVN tech-stack,
   creating various types of projects purposely to further improve my logical thinking and versatility as a full-stack developer.
 </p>
@@ -63,6 +63,16 @@
 <a href="https://github.com/Kobs03">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobs03&layout=compact&theme=vue-dark" />
 </a>
+
+<h2 align="left" > Goals </h2>
+
+<p>
+ As a currently web developer and MEVN tech stack user, I am also open for learning other tools and languages and
+ invest my time to have a equal proficiency in each skills. I'm looking forward in contributing in this profession
+ by developing quality websites, applications, softwares might as well tools for my fellow developers and share my knowledge
+ to aspiring individuals who also wants to pursue this path.
+</p>
+
 
 
 
