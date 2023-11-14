@@ -20,7 +20,12 @@
 
 <h2 align="left">Featured Projects </h2>
 
-![DevKobs](https://github-readme-stats.vercel.app/api?username=Kobs03&theme=vue-dark_icons=true)
+[![Invoke Simulator Game](https://github-readme-stats.vercel.app/api/pin/?username=Kobs03&repo=Invoker_Game_Simulator&theme=vue-dark)](https://github.com/Kobs03/Invoker_Game_Simulator)
+[![JenerateSon](https://github-readme-stats.vercel.app/api/pin/?username=Kobs03&repo=JenerateSON&theme=vue-dark)](https://github.com/Kobs03/JenerateSON)
+
+
+![DevKobs](https://github-readme-stats.vercel.app/api?username=Kobs03&show_icons=true&theme=vue-dark)
+
 
 
 
