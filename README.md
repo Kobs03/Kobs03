@@ -23,11 +23,11 @@
 <h2 align="left">Featured Projects </h2>
 
 <a href="https://github.com/Kobs03/Invoker_Game_Simulator">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kobs03&repo=Invoker_Game_Simulator&theme=vue-dark" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kobs03&repo=Invoker_Game_Simulator&theme=vue-dark" />
 </a> &nbsp
 
 <a href="https://github.com/Kobs03/JenerateSON">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kobs03&repo=JenerateSON&theme=vue-dark" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kobs03&repo=JenerateSON&theme=vue-dark" />
 </a>
 
 
