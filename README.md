@@ -6,15 +6,15 @@
 <p align="center"> 「 A Full-Stack Web Developer 」 </p>
 
 <p align="center">
-<a href="https://facebook.com/alsiam.world" target="_blank">
+<a href="[https://facebook.com/alsiam.world](https://www.facebook.com/)" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="kobs"  />
 </a> &nbsp
 
- <a href="https://alsiam.com" target="blank">
+ <a href="https://kobs03.github.io/kobsPortfolioV2/" target="blank">
   <img src="https://img.shields.io/badge/Website-2AAA8A?style=for-the-badge&logo=aseprite&logoColor=white" alt="kobs"/>
  </a> &nbsp
 
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kobs"/>
  </a> &nbsp
 
