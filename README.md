@@ -1,10 +1,10 @@
+<br>
 <h1 align="center"> 🤖 Hi there, I'm Jake </h1>
 <p align="center"> [A Full-Stack Web Developer ] </p>
 
 <h2 align="left" >About</h2>
 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit aliquam est facere! Maiores commodi, quaerat adipisci mollitia itaque, tenetur quisquam, saepe deleniti velit reprehenderit repudiandae. A dignissimos facere ipsa quaerat!
 </p>
-<br>
 <h2 align="left" >Tools & Languages </h2>
 <img align="left" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
 <img align="left" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
