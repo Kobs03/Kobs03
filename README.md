@@ -32,11 +32,11 @@
 <h2 align="left"> GitHub Stats </h2>
 
 <a href="https://github.com/Kobs03">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Kobs03&show_icons=true&theme=vue-dark" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kobs03&show_icons=true&theme=vue-dark" />
+</a> &nbsp
 
 <a href="https://github.com/Kobs03">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobs03&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobs03&layout=compact" />
 </a>
 
 
