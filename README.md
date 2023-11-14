@@ -1,1 +1,1 @@
-<h1 align="center">Hi there! I'm Kobs</h1>
+<h1>Hi there! I'm </h1> <img width="130" height="30" src="/assets/kobs.gif" alt="kobs" />
