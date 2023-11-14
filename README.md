@@ -17,7 +17,8 @@
 <img align="left" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br> <br> <br>
-<h2>Featured Projects </h2>
+<h2 align="left">Featured Projects </h2>
+
 
 
 
