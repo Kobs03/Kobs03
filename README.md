@@ -1,8 +1,31 @@
-<h1 align="center"> 🤖 Hi there, I'm Jake </h1>
+<h1 align="center">
+        <samp> 🤖 Hey There!, I am
+                <b><a target="_blank" href="">DevKobs</a></b>
+        </samp>
+</h1>
 <p align="center"> 「 A Full-Stack Web Developer 」 </p>
 
+<p align="center">
+<a href="https://facebook.com/alsiam.world" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="kobs"  />
+</a> &nbsp
+
+ <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-2AAA8A?style=for-the-badge&logo=aseprite&logoColor=white" alt="kobs"/>
+ </a> &nbsp
+
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kobs"/>
+ </a> &nbsp
+
+</p>
+
+
 <h2 align="left" >About</h2>
-<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit aliquam est facere! Maiores commodi, quaerat adipisci mollitia itaque, tenetur quisquam, saepe deleniti velit reprehenderit repudiandae. A dignissimos facere ipsa quaerat!
+<p>
+  Hi, I'm Jake a full-stack web developer based in the philippines and a bachelor's degree holder of computer science.
+  Being a programmer is my life long passion and what I enjoy doing. I'm currently increasing my proficiency in the MEVN tech-stack,
+  creating various types of projects purposely to further improve my logical thinking and versatility as a full-stack developer.
 </p>
 <h2 align="left" >Tools & Languages </h2>
 <a>
