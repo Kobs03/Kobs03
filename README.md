@@ -69,7 +69,7 @@
 <p>
  As a currently web developer and MEVN tech stack user, I am also open for learning other tools and languages and
  invest my time to have a equal proficiency in each skills. I'm looking forward to contribute in this profession
- by developing quality websites, applications, softwares might as well tools for my fellow developers and share my knowledge
+ by developing quality websites, games, applications, softwares might as well tools for my fellow developers and share my knowledge
  to aspiring individuals who also wants to pursue this path.
 </p>
 
